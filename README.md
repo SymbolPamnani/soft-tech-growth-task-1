@@ -11,6 +11,7 @@ This project was developed as part of my AI internship task. It focuses on analy
 * Tokenizing tweet text
 * Performing sentiment analysis
 * Interpreting the results
+* Dataset: Twitter Sentiment dataset loaded directly from an online GitHub repository.
 
 ## Technologies Used
 
